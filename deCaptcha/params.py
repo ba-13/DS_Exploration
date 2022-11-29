@@ -1,0 +1,11 @@
+DATA_PATH = './test/'
+LABELS_PATH = DATA_PATH + 'codes.txt'
+MODEL_PATH = './models/model.h5'
+img_height = 13
+img_width = 13
+color_threshold = 245
+gaussian_kernel_size = 9
+erosion_kernel_size = 2
+batch_size = 3
+verbose = True
+num_files = 20
