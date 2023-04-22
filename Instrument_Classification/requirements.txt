@@ -60,7 +60,7 @@ ipython==7.33.0
 ipython-genutils==0.2.0
 jedi==0.18.1
 Jinja2==3.1.2
-joblib==1.1.0
+joblib==1.1.1
 joint-state-publisher==1.15.1
 joint-state-publisher-gui==1.15.1
 jsonschema==4.5.1
